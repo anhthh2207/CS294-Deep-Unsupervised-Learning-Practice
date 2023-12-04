@@ -1,1 +1,1 @@
-# Autogressive Models
+# Autoregressive Models
